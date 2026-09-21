@@ -6,7 +6,7 @@ A small interactive dashboard built with [Streamlit](https://streamlit.io): uplo
 filter it by category, and see live KPIs and charts update instantly.
 
 🎞️ Slides: [Build Your First Interactive Data App with Streamlit.pdf](./Build%20Your%20First%20Interactive%20Data%20App%20with%20Streamlit.pdf)
-🌐 Live app: *[add your Streamlit Community Cloud link here, once deployed]*
+🌐 Live app: [app-pildora-ehzkytpzqrz8h4aghcfb9z.streamlit.app](https://app-pildora-ehzkytpzqrz8h4aghcfb9z.streamlit.app/)
 
 ## What it does
 
