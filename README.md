@@ -5,7 +5,8 @@
 A small interactive dashboard built with [Streamlit](https://streamlit.io): upload a CSV,
 filter it by category, and see live KPIs and charts update instantly.
 
-🎞️ Slides: [Build Your First Interactive Data App with Streamlit.pdf](./Build%20Your%20First%20Interactive%20Data%20App%20with%20Streamlit.pdf)
+🎞️ Slides (EN): [Build Your First Interactive Data App with Streamlit.pdf](./Build%20Your%20First%20Interactive%20Data%20App%20with%20Streamlit.pdf)
+🎞️ Slides (ES): [Construye tu Primera App de Datos con Streamlit.pdf](./Construye%20tu%20Primera%20App%20de%20Datos%20con%20Streamlit.pdf)
 🌐 Live app: [app-pildora-ehzkytpzqrz8h4aghcfb9z.streamlit.app](https://app-pildora-ehzkytpzqrz8h4aghcfb9z.streamlit.app/)
 
 ## What it does

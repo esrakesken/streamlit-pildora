@@ -3,3 +3,4 @@ __pycache__/
 .DS_Store
 demo.py
 demo_script.md
+speaker_notes.md
